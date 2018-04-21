@@ -1,0 +1,44 @@
+[create-header-md]
+other = "Create a content/_header.md to customize this"
+
+[create-footer-md]
+other = "Create a content/_footer.md file to customize the footer content"
+
+[Search-placeholder]
+other = "搜索..."
+
+[Clear-History]
+other = "清除历史"
+
+[Page]
+other = "页"
+
+[Next-Pages]
+other = "下一页"
+
+[Previous-Pages]
+other = "上一页"
+
+[pagination-on]
+other = "of"
+
+[Attachments-label]
+other = "附件"
+
+[title-404]
+other = "错误"
+
+[message-404]
+other = "啊哦，看起来页面不存在哦。"
+
+[Go-to-homepage]
+other = "返回首页"
+
+[Edit-this-page]
+other = "改善此页"
+
+[Expand-title]
+other = "展开..."
+
+[last-update-on]
+other = "最后更新于"
