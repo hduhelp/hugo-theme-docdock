@@ -132,6 +132,7 @@ body {
 
 #top-bar {
     box-shadow: 0 5px 10px rgba(0, 0, 0, $topbar_shadow_opacity);
+    position: fixed;
 }
 
 .btn {
@@ -543,6 +544,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 
 #body-inner {
     margin-bottom: 5rem;
+    margin-top:60px;
 }
 
 #chapter {
